@@ -56,14 +56,6 @@ const persona = {
     return a * 2;
   }
 
-  let duplicar1 = (a) => {
-    return a * 2;
-  }
-
-  let duplicar2 = (a) => a * 2;
-
-
-
 function greeting(name) {
     console.log('Hello ' + name);
 }
