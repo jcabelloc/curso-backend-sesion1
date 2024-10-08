@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    
+}
+
+p,
+li {
+  color: green;
+}
+
+p, li {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+.special {
+    color: orange;
+    font-weight: bold;
+  }
